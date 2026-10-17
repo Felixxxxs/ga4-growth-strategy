@@ -1,0 +1,12 @@
+{
+  "name": "ga4-growth-strategy",
+  "owner": { "name": "Felix Zeeb" },
+  "plugins": [
+    {
+      "name": "ga4-growth-strategy",
+      "source": "./",
+      "description": "Claude skill: pull GA4 data, evaluate every channel, campaign and conversion path, audit the tracking, and build a prioritised marketing and sales strategy. Read only.",
+      "version": "0.1.0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ga4-growth-strategy",
+  "version": "0.1.0",
+  "description": "Claude skill: pull GA4 data, evaluate every channel, campaign and conversion path, audit the tracking, and build a prioritised marketing and sales strategy. Read only.",
+  "author": { "name": "Felix Zeeb" },
+  "homepage": "https://github.com/Felixxxxs/ga4-growth-strategy",
+  "repository": "https://github.com/Felixxxxs/ga4-growth-strategy",
+  "license": "MIT",
+  "keywords": ["ga4", "google-analytics", "attribution", "marketing-strategy", "sales", "business-ai-os"]
+}
