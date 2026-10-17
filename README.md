@@ -81,6 +81,14 @@ skills/ga4-growth-strategy/
   templates/strategy-report.md
 ```
 
+## Your data
+
+Reports contain business data: keep them in a private folder or repository. The skill only reads, the scripts keep credentials outside every repository and never print them. Details and how to report a security issue: [SECURITY.md](SECURITY.md).
+
+## Contributing
+
+Contributions are welcome: new checks and decision rules, fixes, better templates, translations, reports of where a recommendation was wrong. Read [CONTRIBUTING.md](CONTRIBUTING.md), open an [issue](https://github.com/Felixxxxs/ga4-growth-strategy/issues/new/choose), or start a thread in [Discussions](https://github.com/Felixxxxs/ga4-growth-strategy/discussions). This project follows the [Code of Conduct](CODE_OF_CONDUCT.md).
+
 ## Maintainer
 
 - **Felix Zeeb** ([@Felixxxxs](https://github.com/Felixxxxs))
